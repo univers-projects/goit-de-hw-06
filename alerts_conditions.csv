@@ -1,0 +1,5 @@
+code,message,min_temperature,max_temperature,min_humidity,max_humidity
+101,Temperature is too low,30,-999,-999,-999
+102,Humidity is too low,-999,-999,20,-999
+103,Humidity is too high,-999,-999,-999,80
+104,It's too hot,-999,40,-999,-999
